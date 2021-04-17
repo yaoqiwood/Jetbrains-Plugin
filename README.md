@@ -9,3 +9,5 @@ Some plugins for JetBrains -IDE
 
 ### ReverseProxy_windows_amd64 ： Jrebel 反向代理
 
+### ShineEclipse 一种我个人使用习惯了的格式化代码主题的XML 需要配合IDEA 插件的Eclipse Code Formatter
+
